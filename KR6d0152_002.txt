@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:01.267088
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:48
 #+TITLE: 大乘止觀法門
 #+PROPERTY: CBETA_ID T46n1924
 #+PROPERTY: ID KR6d0152
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1924
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0152_T_002-0647a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 大乘止觀法門卷第二¶
+大乘止觀法門卷第二¶
 ¶
 南嶽思大禪師曲授心要¶
 
@@ -232,7 +231,7 @@
 染之義也。又復事染生死唯多熱惱。事淨涅¶
 槃偏足清涼。是以單彰性淨涅槃。為欲起¶
 彼事淨之泥洹。便隱性染輪迴。冀得廢斯¶
-事染之生死。若孤題性染惑者。便則無羨¶
+事染之生死。若孤題性染惑者。便則無羡¶
 於真源。故偏導清升愚子遂乃有欣於實際。¶
 是故在障出障法身俱隱性染之名。有垢無
 <pb:KR6d0152_T_002-0649c>¶

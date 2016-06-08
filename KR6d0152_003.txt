@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:01.294305
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:48
 #+TITLE: 大乘止觀法門
 #+PROPERTY: CBETA_ID T46n1924
 #+PROPERTY: ID KR6d0152
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1924
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0152_T_003-0653b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 大乘止觀法門卷第三¶
+大乘止觀法門卷第三¶
 ¶
 南嶽思大禪師曲授心要¶
 
